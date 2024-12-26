@@ -2,7 +2,7 @@
 remote_theme: hakimel/reveal.js
 title: My Presentation Slides
 description: A collection of presentation slides
-baseurl: "/slides-presentation"  # Your repo name
+baseurl: "/jekyll-with-reveal"  # Your repo name
 url: "https://jvsocial.github.io"
 plugins:
   - jekyll-relative-links
@@ -13,3 +13,5 @@ defaults:
       path: ""
     values:
       layout: reveal
+
+      
