@@ -1,5 +1,4 @@
-For `index.md`:
-```markdown
+# File: index.md
 ---
 title: Welcome to My Slides
 ---
@@ -10,5 +9,5 @@ ___
 
 ## Presentation Index
 
-- [Sample Presentation](/sample-presentation)
+- [Sample Presentation](./sample-presentation)
 - [Add more presentations here...]
