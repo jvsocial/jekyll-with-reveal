@@ -9,5 +9,5 @@ ___
 
 ## Presentation Index
 
-- [Sample Presentation](./sample-presentation)
+- [Sample Presentation]({{ site.baseurl }}/sample-presentation)
 - [Add more presentations here...]

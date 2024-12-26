@@ -1,8 +1,9 @@
+# File: _config.yml
 remote_theme: hakimel/reveal.js
 title: My Presentation Slides
 description: A collection of presentation slides
-baseurl: "/slides-presentation"  # Replace with your repo name
-url: "" # Replace with your GitHub username
+baseurl: "/slides-presentation"  # Your repo name
+url: "https://jvsocial.github.io"
 plugins:
   - jekyll-relative-links
   - jekyll-remote-theme
